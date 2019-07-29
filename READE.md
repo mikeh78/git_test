@@ -1,0 +1,1 @@
+This is mike78 first git project
